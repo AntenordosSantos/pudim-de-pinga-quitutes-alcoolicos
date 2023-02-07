@@ -170,6 +170,10 @@ body {
     width: 350px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.394);
+    font-family: 'Permanent Marker', regular;
+    font-weight: 400;
+    font-size: 15px;
+    color: #402401;
   }
 
   .conteudo-secundario {
